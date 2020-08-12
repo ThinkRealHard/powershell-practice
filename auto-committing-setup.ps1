@@ -12,3 +12,4 @@ git add .
 
 git commit -m $CommitMessage
 
+git push
